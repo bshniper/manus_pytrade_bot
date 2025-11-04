@@ -355,7 +355,7 @@ class JupiterMarketMaker:
 # Configuration and main execution
 async def main():
     # Replace with your actual private key
-    PRIVATE_KEY = "YOUR_PRIVATE_KEY_HERE"  # Never commit real private keys!
+    PRIVATE_KEY = "726e5a01-d7a1-4fa2-b48a-0632e90e7c4b"  # Never commit real private keys!
     
     # Trading pairs and amounts
     trading_pairs = [
